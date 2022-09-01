@@ -6,3 +6,7 @@ This is only for practice
 names = ["gagandeep", "Ramgiri"]
 print(names)
 ```
+```javaScript
+names = ["gagandeep", "Ramgiri"];
+names.forEach((name)=> Console.Log(name))
+```
